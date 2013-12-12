@@ -4,7 +4,7 @@
 
 > The term x86 denotes a family of backward compatible instruction set architectures based on the Intel 8086 CPU.
 
-The x86 architecture is the most common instruction set architecture since its introduction in 1981 for the IBM PC. A large amount of software, including operating systems (OS's) such as DOS, Windows, Linux, BSD, Solaris and Mac OS X, function with x86-based hardware.
+The x86 architecture is the most common instruction set architecture since its introduction in 1981 for the IBM PC. A large amount of software, including operating systems (OSs) such as DOS, Windows, Linux, BSD, Solaris and Mac OS X, function with x86-based hardware.
 
 In this course we are not going to design an operating system for the x86-64 architecture but for x86-32, thanks to backward compatibility, our OS will be compatible with our newer PCs (but take caution if you want to test it on your real machine).
 
